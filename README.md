@@ -1,6 +1,6 @@
 <p align="right">
   <a href="#">En</a> | 
-  <a href="LÉEME.md">Es</a>
+  <a href="Leeme.md">Es</a>
 </p>
 
 ## Hi, I am Jesus Monroy 👋 
